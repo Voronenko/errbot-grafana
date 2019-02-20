@@ -91,7 +91,7 @@ Contributions to this plugin are always welcome and highly encouraged.
 License
 -------
 
-MIT - See `LICENSE <LICENSE>`_ for more information.
+MIT - See LICENSE for more information.
 
 
 Interested in other plugins or roles ?
