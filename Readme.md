@@ -12,7 +12,7 @@ This plugin allows you to refer grafana dashboards and panels for your team in a
 Quickstart
 ----------
 
-First you need to install Errbot, you can `follow this documentation <http://errbot.io/en/latest/user_guide/setup.html>`_.
+First you need to install Errbot, you can follow this documentation http://errbot.io/en/latest/user_guide/setup.html.
 Errbot server can be installed with https://github.com/softasap/sa-chatops-errbot ansible role or manually
 
 Then you'll need to install this plugin on your Errbot instance doing 
