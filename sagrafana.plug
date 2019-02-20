@@ -1,0 +1,6 @@
+[Core]
+Name = SaGrafana
+Module = sagrafana
+
+[Documentation]
+Description = Helper module for grafana ( install with https://github.com/Voronenko/errbot-grafana )
