@@ -111,7 +111,7 @@ class GrafanaHelper(object):
                     else:
                         if len(template["current"]) > 0:
                             template_map[
-                                "$" + template.name] = template["current"][
+                                "$" + template["name"]] = template["current"][
                                 "text"]
 
         panel_number = 0
